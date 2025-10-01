@@ -61,3 +61,4 @@ Após aplicar a solução:
 - **Fluxo limpo:** Remove duplicatas e conflitos
 
 **Use a Opção 1 (Editor) para resolver definitivamente! 🚀**
+

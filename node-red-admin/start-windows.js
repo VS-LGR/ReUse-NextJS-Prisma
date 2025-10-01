@@ -116,3 +116,4 @@ checkApi().then((isApiRunning) => {
         startNodeRed();
     }
 });
+

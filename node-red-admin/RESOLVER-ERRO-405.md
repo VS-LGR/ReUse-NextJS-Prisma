@@ -56,3 +56,4 @@ Após reiniciar, os endpoints devem funcionar:
 - Só falta o Node-RED carregar as mudanças
 
 **Reinicie o Node-RED e teste novamente! 🚀**
+
