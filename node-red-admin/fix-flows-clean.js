@@ -33,3 +33,5 @@ console.log(`🗑️ Duplicatas removidas: ${flows.length - cleanFlows.length}`)
 console.log('');
 console.log('🔄 Reinicie o Node-RED para aplicar as mudanças');
 
+
+

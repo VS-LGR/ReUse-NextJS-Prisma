@@ -28,3 +28,5 @@ console.log('   - POST /api/offer/delete');
 console.log('');
 console.log('🔄 Reinicie o Node-RED para aplicar as mudanças');
 
+
+
